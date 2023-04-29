@@ -1,6 +1,6 @@
 # AnáliseApp
 
-## Projeto realizado por Maria Clara e Mariana Greco, 3° Jogos Digitais
+## Projeto realizado por Maria Clara Amorim Brunhara e Mariana Greco Mantovani, 3° Jogos Digitais
 
 Link para a wiki do projeto: https://github.com/mabrunhara/AnaliseApp/wiki
 
